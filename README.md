@@ -26,3 +26,4 @@ Or just use: `uv sync --all-extras` to install all extras at once.
 - **datasci**: data science stuff (numpy, pandas, ...)
 - **hacking**: hacking and security related tools: pwntools, scapy, ...
 - **tools**: useful libraries for building tools
+- **filefmts**: libraries to access file formats
